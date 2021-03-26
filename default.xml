@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://github.com" name="github"/>
-  <remote fetch="http://git.openembedded.org" name="oe"/>
-  <remote fetch="https://github.com/STMicroelectronics" name="OpenSTLinux"/>
+  <remote fetch="https://hub.fastgit.org" name="github"/>
+  <remote fetch="https://git.openembedded.org" name="oe"/>
+  <remote fetch="https://hub.fastgit.org/STMicroelectronics" name="OpenSTLinux"/>
   
   <default remote="OpenSTLinux"/>
   
